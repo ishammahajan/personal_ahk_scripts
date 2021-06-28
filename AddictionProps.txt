@@ -1,0 +1,7 @@
+breakCount = 0
+breakCountBeforeLongBreak = 4
+LongBreakPeriod = 1800000
+ShortBreakPeriod = 300000
+WorkPeriod = 1800000
+AddictionsRegex = (YouTube|Twitch|Patreon)
+DisableWhenActiveWindow = (Dota)
